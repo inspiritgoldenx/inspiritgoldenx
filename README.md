@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inspiritgoldenx&label=Profile%20views&color=0e75b6&style=flat" alt="inspiritgoldenx" /> </p>
 
-- 🔭 I’m currently working on [cloud engineering course from Dare IT](https://github.com/inspiritgoldenx/dareit-tasks)
+- 🔭 Had a fantastic beginning in cloud + platform engineering course organised by Dare IT [cloud engineering course from Dare IT](https://github.com/inspiritgoldenx/dareit-tasks)
 
 - 🌱 I’m currently learning **about everything what's related to IT, especially UX research and now a little of cloud engineering**
 
